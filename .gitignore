@@ -24,8 +24,7 @@ htmlcov/
 logs/
 
 # Database
-**/data/*.db
-**/data/*.db-journal
+data/
 
 # IDE
 .vscode/
